@@ -1,0 +1,3 @@
+include ':kotlintest'
+include ':app'
+rootProject.name = "rxjava"
